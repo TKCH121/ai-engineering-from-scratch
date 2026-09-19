@@ -66,6 +66,9 @@ same lesson code.
 Not sure where you fit? Use the [`start-learning` placement tutor](skills/start-learning/SKILL.md)
 or the [website prerequisites guide](https://aiengineeringfromscratch.com/prereqs.html).
 
+To carry your learner state to an Apple Silicon Mac and run the tutor with a
+local model, follow the [Codex + Ollama MacBook setup](docs/local-llm-macos.md).
+
 Compare four core domains and six career routes in the [AI Engineering Learning Paths](https://aiengineeringfromscratch.com/learning-paths.html).
 
 ### Sponsors
